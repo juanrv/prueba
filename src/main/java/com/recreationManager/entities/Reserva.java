@@ -19,7 +19,7 @@ public class Reserva  {
     @Column(name = "apellido")
     private String apellido;
     @Column(name = "nro_documento")
-    private Integer nroDocumento;
+    private Long nroDocumentoL;
     @Column(name = "inicio_fecha")
     private String inicioFecha;
     @Column(name = "fin_fecha")

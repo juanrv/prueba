@@ -11,7 +11,7 @@ public class ReservaRequest {
     @JsonProperty("apellido")
     private String apellido;
     @JsonProperty("nroDocumento")
-    private Integer nroDocumento;
+    private Long nroDocumentoL;
     @JsonProperty("inicioFecha")
     private String inicioFecha;
     @JsonProperty("finFecha")

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99b465a6-f1e9-4dc3-ad1a-83fbf328c3be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/RecreationManagerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/controller/ApiController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/dto/ReservaDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/dto/ReservaRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/entities/Reserva.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/repository/ReservaRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/services/implementation/ReservasImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/services/interfaces/IReservaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/util/exception/ApiNotFound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/util/exception/ApiUnathorizazed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/util/exception/ApiUnprocessableEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/util/helpers/MHelpers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/validator/ReservaValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/recreationManager/validator/ReservaValidatorImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/recreationManager/entities/ReservaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recreationManager/controller/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recreationManager/controller/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recreationManager/dto/ReservaRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recreationManager/dto/ReservaRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recreationManager/entities/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recreationManager/entities/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recreationManager/services/implementation/ReservasImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recreationManager/services/implementation/ReservasImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/recreationManager/validator/ReservaValidatorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/recreationManager/validator/ReservaValidatorImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RecreationManager" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RecreationManager" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RecreationManager" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RecreationManager" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RecreationManager" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qELuVu2DzgbEbpCsH58syVRe7q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="E:/Uco/Android/api-rest-ccb-master" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.recreationManager.entities" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RecreationManagerApplication" type="Application" factoryName="Application" editBeforeRun="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.recreationManager.RecreationManagerApplication" />
+      <module name="RecreationManager.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.recreationManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b465a6-f1e9-4dc3-ad1a-83fbf328c3be" name="Default Changelist" comment="" />
+      <created>1616640026495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616640026495</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primer commit proyecto RecreationManager">
+      <created>1617457256393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617457256393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit proyecto RecreationManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit proyecto RecreationManager" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="72" width="579" height="680" key="#RecreationManagerApplication" timestamp="1617936784795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="72" width="579" height="680" key="#RecreationManagerApplication/0.0.1536.824@0.0.1536.824" timestamp="1617936784795" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617587750746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1617587750746" />
+    <state x="1004" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1617164493178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1004" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617164493178" />
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617587748372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1617587748372" />
+    <state x="354" y="8" key="CommitChangelistDialog2" timestamp="1617457255014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="354" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1617457255014" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1617667034266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1617667034266" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1617834878531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617834878531" />
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom" timestamp="1618370106268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618370106268" />
+    <state width="1493" height="201" key="GridCell.Tab.0.center" timestamp="1618370106268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618370106268" />
+    <state width="1493" height="201" key="GridCell.Tab.0.left" timestamp="1618370106268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618370106268" />
+    <state width="1493" height="201" key="GridCell.Tab.0.right" timestamp="1618370106268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618370106268" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1617457315500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617457315500" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1618160120991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1618160120991" />
+    <state x="533" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1618370625380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1618370625380" />
+  </component>
+</project>

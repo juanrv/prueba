@@ -34,6 +34,7 @@ public class ApiController {
 
     @PostMapping(value = "/save",consumes = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Object> save(@RequestBody ReservaRequest reservaRequest) throws ApiUnprocessableEntity {
+        this.reservaValidator.validator(reservaRequest);
         this.reservaService.save(reservaRequest);
         return ResponseEntity.ok(Boolean.TRUE);
     }

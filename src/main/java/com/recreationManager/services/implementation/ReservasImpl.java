@@ -47,7 +47,7 @@ public class ReservasImpl  implements IReservaService {
     public void save(ReservaRequest reservaRequest) {
         Reserva reserva= MHelpers.modelMapper().map(reservaRequest,Reserva.class);
         this.reservaRepository.save(reserva);
-    }
+}
 
 
 }
